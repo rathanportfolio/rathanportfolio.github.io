@@ -1,4 +1,6 @@
 # rathanportfolio.github.io
+user name: rathanportfolio
+password: AdminIndia@123
 
 Install git bash:
     https://git-scm.com/downloads
